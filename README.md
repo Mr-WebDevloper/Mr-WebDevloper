@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-WebDevloper
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... React js
+- 🌱 I’m currently learning ... Backend & Frontend Devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...dhotremangesh16@gmail.com
 /+91 8850641023
