@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Backend & Frontend Devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...dhotremangesh16@gmail.com
-/+91 8850641023
+
 
 <!---
 Mr-WebDevloper/Mr-WebDevloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
